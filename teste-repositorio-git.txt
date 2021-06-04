@@ -1,4 +1,4 @@
 Meu primeiro cotato com GIT.
 Na Escola de tecnologia vida nova 
-e quero aprender muito
-Simulando uma alteração feita pelo meu amigo / outra pessoa.
+e quero aprender muito.
+Simulando uma alteração feita pelo meu amigo / outra pessoa
