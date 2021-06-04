@@ -1,2 +1,3 @@
-MEU PRIMEIRO CONTATO COM GIT. 
-Na Escola de tecnologia vida nova e quero aprender muito
+﻿MEU PRIMEIRO CONTATO COM GIT. 
+Na Escola de tecnologia vida nova e quero aprender muito.
+
