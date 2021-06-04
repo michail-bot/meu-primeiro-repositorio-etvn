@@ -1,1 +1,2 @@
-Meu primeiro conteudo para aprender mais sobre repositório GIT.
+Meu primeiro cotato com GIT.
+Na Escola de tecnologia vida nova e quero aprender muito
